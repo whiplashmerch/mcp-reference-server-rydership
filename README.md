@@ -1,4 +1,6 @@
-# Commerce Operations Foundation MCP Server
+# Commerce Operations Foundation MCP Server - RYDERSHIP EDITION
+This is a work in progress.
+[Follow along here!](https://www.notion.so/onX-local-POC-2c4d9643850b80eba8eaec72aa86d280#2c4d9643850b802da7bdc59f3d6a2338)
 
 ## Universal Fulfillment System for the AI Era
 
